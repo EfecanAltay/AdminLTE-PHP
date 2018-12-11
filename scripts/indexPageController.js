@@ -1,0 +1,4 @@
+
+function activeLoginPage(){
+	window.location = "";
+}
